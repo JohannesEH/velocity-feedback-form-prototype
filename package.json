@@ -1,5 +1,5 @@
 {
-  "name": "velocity-feedback-form-prototyping",
+  "name": "velocity-feedback-form-prototype",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@vue/cli-plugin-babel": "4.1.1",
+    "bootstrap": "4.4.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
